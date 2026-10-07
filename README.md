@@ -35,4 +35,6 @@ Trần Minh Trí
 
 
 Thực hành quy trình làm việc cơ bản với Git và GitHub bằng dòng lệnh.
+## Mô tả dự án
 
+Dự án được thực hiện nhằm thực hành quản lý mã nguồn bằng Git và GitHub trong môi trường phát triển phần mềm mã nguồn mở.
