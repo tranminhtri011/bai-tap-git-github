@@ -45,3 +45,9 @@ Dự án được thực hiện nhằm thực hành quản lý mã nguồn bằn
 Clone repository bằng lệnh:
 
 git clone https://github.com/tranminhtri011/bai-tap-git-github.git
+## Công cụ sử dụng
+
+- Git
+- GitHub
+- Visual Studio Code
+- Windows PowerShell
